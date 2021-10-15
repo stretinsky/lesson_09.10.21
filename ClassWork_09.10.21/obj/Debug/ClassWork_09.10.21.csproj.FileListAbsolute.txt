@@ -1,0 +1,7 @@
+C:\Users\1\source\repos\Lesson_09.10.21\ClassWork_09.10.21\bin\Debug\ClassWork_09.10.21.exe.config
+C:\Users\1\source\repos\Lesson_09.10.21\ClassWork_09.10.21\bin\Debug\ClassWork_09.10.21.exe
+C:\Users\1\source\repos\Lesson_09.10.21\ClassWork_09.10.21\bin\Debug\ClassWork_09.10.21.pdb
+C:\Users\1\source\repos\Lesson_09.10.21\ClassWork_09.10.21\obj\Debug\ClassWork_09.10.21.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Lesson_09.10.21\ClassWork_09.10.21\obj\Debug\ClassWork_09.10.21.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Lesson_09.10.21\ClassWork_09.10.21\obj\Debug\ClassWork_09.10.21.exe
+C:\Users\1\source\repos\Lesson_09.10.21\ClassWork_09.10.21\obj\Debug\ClassWork_09.10.21.pdb
